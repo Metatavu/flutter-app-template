@@ -1,0 +1,5 @@
+{
+    "appTitle": "Flutter-esimerkkisovellus",
+    "buttonPressesText": "{n, plural, =0{Et ole painanut nappia yhtään kertaa} =1{Olet painanut nappia kerran} other{Olet painanut nappia {n} kertaa}}",
+    "incrementTooltip": "Paina nappia"
+}

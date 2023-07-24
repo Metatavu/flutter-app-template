@@ -1,0 +1,19 @@
+{
+    "appTitle": "Flutter example application",
+    "@appTitle": {
+        "description": "Application title text"
+    },
+    "buttonPressesText": "{n, plural, =0{You have not pressed the button} =1{You have pressed the button once} other{You have pressed the button {n} times}}",
+    "@buttonPressesText": {
+        "description": "Text to show how many times was the button pressed",
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "incrementTooltip": "Increment the counter",
+    "@incrementTooltip": {
+        "description": "Increment button tooltip"
+    }
+}
